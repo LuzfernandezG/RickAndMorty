@@ -1,0 +1,64 @@
+{
+    "generos":[
+        {
+          "imagen": "rock.jpeg",
+          "nombre": "Rock",
+          "descripcion": "El rock es un género musical que se caracteriza por el uso de guitarras eléctricas, bajos y baterías. Surgió en la década de 1950 en Estados Unidos y ha evolucionado en diversos subgéneros como el rock clásico, el punk rock, el rock alternativo, entre otros.",
+          "banda": "The Beatles"
+        },
+        {
+          "imagen":"jazz.webp",
+          "nombre": "Jazz",
+          "descripcion": "El jazz es un género musical que se originó en la comunidad afroamericana de Nueva Orleans a finales del siglo XIX. Se caracteriza por su improvisación, ritmo sincopado y elementos de blues y música africana. El jazz ha influenciado muchos otros estilos musicales y sigue siendo una forma popular de expresión artística.",
+          "banda": "Louis Armstrong"
+        },
+        {
+          "imagen": "hipHop.jpg",
+          "nombre": "Hip hop",
+          "descripcion": "El hip hop es un género musical que se originó en las comunidades afroamericanas y latinas de Nueva York en la década de 1970. Se caracteriza por el rap, la rima hablada sobre ritmos y percusión. El hip hop también incluye elementos de DJing, breakdance y graffiti. Ha crecido para convertirse en un fenómeno cultural global.",
+          "banda": "Run-D.M.C."
+        },
+        {
+          "imagen": "electronica.jpg",
+          "nombre": "Electrónica",
+          "descripcion": "La música electrónica es un género que se compone principalmente mediante el uso de instrumentos electrónicos y tecnología de producción musical. Se originó en la década de 1950 y ha evolucionado a lo largo del tiempo, abarcando una amplia variedad de estilos como el techno, house, trance, dubstep, entre otros.",
+          "banda": "Daft Punk"
+        },
+        {
+          "imagen": "clasica.jpg",
+          "nombre": "Clásica",
+          "descripcion": "La música clásica es un género que abarca obras musicales compuestas durante varios siglos, desde la Edad Media hasta la actualidad. Se caracteriza por su complejidad estructural, armonías elaboradas y composiciones para instrumentos orquestales. La música clásica ha sido una forma de arte perdurable que ha influido en muchas otras formas de música.",
+          "banda": "Orquesta Filarmónica de Berlín"
+        },
+        {
+          "imagen": "salsa.png",
+          "nombre": "Salsa",
+          "descripcion": "La salsa es un género musical que se originó en el Caribe y es una fusión de diversos estilos musicales como el son cubano, la música africana y el jazz. Se caracteriza por su ritmo pegajoso, arreglos de metales y letras apasionadas sobre amor, política y vida cotidiana.",
+          "banda": "Fania All-Stars"
+        },
+        {
+          "imagen": "bachata.webp",
+          "nombre": "Bachata",
+          "descripcion": "La bachata es un género musical de la República Dominicana que se caracteriza por sus ritmos románticos y melódicos. Surgió en las décadas de 1960 y 1970 y ha evolucionado desde la música rural hasta ser un género urbano popular en toda América Latina.",
+          "banda": "Juan Luis Guerra"
+        },
+        {
+          "imagen": "regueton.jpg",
+          "nombre": "Reggaeton",
+          "descripcion": "El reguetón es un género musical que combina ritmos de reggae, dancehall, hip hop y música latina. Surgió en Puerto Rico en la década de 1990 y se ha convertido en uno de los géneros musicales más populares en América Latina y el mundo.",
+          "banda": "Daddy Yankee"
+        },
+        {
+          "imagen": "reggae.jpg",
+          "nombre": "Reggae",
+          "descripcion": "El reggae es un género musical que se originó en Jamaica a finales de la década de 1960. Se caracteriza por sus ritmos distintivos, líneas de bajo prominentes y letras que a menudo abordan temas de justicia social, amor y espiritualidad.",
+          "banda": "Bob Marley & The Wailers"
+        },
+        {
+          "imagen": "pop.jpg",
+          "nombre": "Pop",
+          "descripcion": "El pop es un género musical popular que abarca una amplia gama de estilos y sonidos. Se caracteriza por su accesibilidad, melodías pegajosas y producción orientada a las masas. El pop ha sido un género dominante en la industria musical desde mediados del siglo XX.",
+          "banda": "Michael Jackson"
+        }
+    ]
+  }
